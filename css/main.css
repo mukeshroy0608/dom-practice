@@ -1,0 +1,12 @@
+#background-change{
+    height: 100px;
+    background-color: chocolate;
+}
+.counter{
+    height: 150px;
+    background-color:blueviolet;
+}
+.love-msg{
+    height: 150px;
+    background-color: aquamarine;
+}
